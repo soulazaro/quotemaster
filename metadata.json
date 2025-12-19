@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Orçamentos",
+  "description": "Sistema para criação, cálculo e emissão de orçamentos comerciais com gestão de clientes e produtos.",
+  "requestFramePermissions": []
+}
